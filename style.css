@@ -1,0 +1,40 @@
+body{
+    background-color: #36485C;
+    text-align: center;
+    color: orange;
+    padding-top: 100px;
+}
+.input{
+    background-color: #2a3642;
+    color: orange;
+    font-size: 20px;
+    width: 70%;
+    padding: 5px;
+    border: 1px solid #36485C;
+    border-radius: 10px;
+}
+.btn{
+    padding: 5px;
+    background-color: #36485C;
+    border: .5px solid orange;
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: -4px -4px 8px 0 rgba(255, 255, 255, 0.1),5px 5px 6px 0 rgba(0, 0, 0, 0.15);
+}
+.Data-Show{
+    width: 90%;
+    margin: auto;
+}
+.card{
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 6px 0 rgba(0, 0, 0, 0.15),-4px -4px 8px 0 rgba(255, 255, 255, 0.1);
+}
+.block{
+    display: block;
+    margin: auto;
+}
